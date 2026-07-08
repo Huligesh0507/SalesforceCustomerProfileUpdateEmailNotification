@@ -1,0 +1,2 @@
+# SalesforceCustomerProfileUpdateEmailNotification
+Salesforce Customer Profile Details
